@@ -1,2 +1,2 @@
 ## Скріншот **працюючої** програми
-![Скрин](Screenshot 2020-10-05 at 20.55.48.png)
+![Скрин](https://github.com/ppc-ntu-khpi/35-first-lab-AngelinaBabich/blob/master/Solution/)
