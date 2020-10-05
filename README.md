@@ -4,4 +4,4 @@
 
 * [Посилання на скріншот **Роботи №2**](https://github.com/ppc-ntu-khpi/35-first-lab-AngelinaBabich/blob/master/Solution/task2.md)
 
-![](https://drive.google.com/drive/folders/1iiVHCawDcU2tj9DBKubfLHf7tFtuDUwo)
+![Image of Yaktocat](https://risovach.ru/upload/2015/03/mem/kotyaka-ulibaka_77125184_orig_.jpg)
